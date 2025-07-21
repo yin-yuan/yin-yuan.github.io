@@ -1,0 +1,176 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>分类: Docker | 爱在西元前</title><meta name="author" content="crazy"><meta name="copyright" content="crazy"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="本人是一名全栈开发工程师，该博客用来记录知识点，分享一些学习心得，以及自己的一些思考。">
+<meta property="og:type" content="website">
+<meta property="og:title" content="爱在西元前">
+<meta property="og:url" content="http://example.com/categories/docker/index.html">
+<meta property="og:site_name" content="爱在西元前">
+<meta property="og:description" content="本人是一名全栈开发工程师，该博客用来记录知识点，分享一些学习心得，以及自己的一些思考。">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://example.com/img/favicon.png">
+<meta property="article:author" content="crazy">
+<meta property="article:tag" content="crazy">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/img/favicon.png"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="http://example.com/categories/docker/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!false && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          theme === 'dark' ? activateDarkMode() : theme === 'light' ? activateLightMode() : null
+        
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        document.documentElement.classList.toggle('hide-aside', asideStatus === 'hide')
+      }
+    
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":true,"highlightMacStyle":false},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'null',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '分类: Docker',
+  isHighlightShrink: false,
+  isToc: false,
+  pageType: 'category'
+}</script><meta name="generator" content="Hexo 7.3.0"></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src="/img/favicon.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data text-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">42</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">40</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">42</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fab fa-java"></i><span> Java</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/design-mode/"><i class="fa-fw fas fa-puzzle-piece"></i><span> 设计模式</span></a></li><li><a class="site-page child" href="/categories/jvm/"><i class="fa-fw fas fa-microchip"></i><span> JVM与内存模型</span></a></li><li><a class="site-page child" href="/categories/concurrency/"><i class="fa-fw fas fa-tasks"></i><span> 并发与多线程</span></a></li><li><a class="site-page child" href="/categories/java-base/"><i class="fa-fw fas fa-user-cog"></i><span> Java基础</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fas fa-leaf"></i><span> Spring</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/spring-mvc/"><i class="fa-fw fas fa-sitemap"></i><span> SpringMVC</span></a></li><li><a class="site-page child" href="/categories/spring-boot/"><i class="fa-fw fas fa-rocket"></i><span> SpringBoot</span></a></li><li><a class="site-page child" href="/categories/spring-cloud/"><i class="fa-fw fas fa-cloud"></i><span> SpringCloud</span></a></li><li><a class="site-page child" href="/categories/spring-data/"><i class="fa-fw fas fa-database"></i><span> SpringData</span></a></li><li><a class="site-page child" href="/categories/spring-security/"><i class="fa-fw fas fa-shield-alt"></i><span> SpringSecurity</span></a></li><li><a class="site-page child" href="/categories/spring-data-jpa/"><i class="fa-fw fas fa-server"></i><span> SpringDataJPA</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fas fa-database"></i><span> Mybatis</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/mybatis/"><i class="fa-fw fas fa-code"></i><span> Mybatis</span></a></li><li><a class="site-page child" href="/categories/mybatis-plus/"><i class="fa-fw fas fa-code-branch"></i><span> MybatisPlus</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fas fa-envelope-open-text"></i><span> 消息队列</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/rocketmq/"><i class="fa-fw fas fa-rocket"></i><span> RocketMQ</span></a></li><li><a class="site-page child" href="/categories/kafka/"><i class="fa-fw fas fa-stream"></i><span> Kafka</span></a></li><li><a class="site-page child" href="/categories/rabbitmq/"><i class="fa-fw fas fa-comments"></i><span> RabbitMQ</span></a></li><li><a class="site-page child" href="/categories/activemq/"><i class="fa-fw fas fa-rss"></i><span> ActiveMQ</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fas fa-tags"></i><span> 计算机网络</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/network/"><i class="fa-fw fas fa-project-diagram"></i><span> 网络原理</span></a></li><li><a class="site-page child" href="/categories/tcpip/"><i class="fa-fw fas fa-exchange-alt"></i><span> TCP/IP 协议族</span></a></li><li><a class="site-page child" href="/categories/http/"><i class="fa-fw fas fa-link"></i><span> HTTP 与 HTTPS</span></a></li><li><a class="site-page child" href="/categories/security/"><i class="fa-fw fas fa-shield-virus"></i><span> 网络安全</span></a></li><li><a class="site-page child" href="/categories/websocket/"><i class="fa-fw fas fa-network-wired"></i><span> WebSocket</span></a></li><li><a class="site-page child" href="/categories/loadbalancing/"><i class="fa-fw fas fa-balance-scale"></i><span> 负载均衡</span></a></li><li><a class="site-page child" href="/categories/dns/"><i class="fa-fw fas fa-globe"></i><span> DNS</span></a></li><li><a class="site-page child" href="/categories/cdn/"><i class="fa-fw fas fa-cloud"></i><span> CDN</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><span> 数据库</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/mysql/"><i class="fa-fw fas fa-database"></i><span> MySQL</span></a></li><li><a class="site-page child" href="/categories/redis/"><i class="fa-fw fas fa-memory"></i><span> Redis</span></a></li><li><a class="site-page child" href="/categories/elasticsearch/"><i class="fa-fw fas fa-search"></i><span> ElasticSearch</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><span> 前端</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/vue/"><i class="fa-fw fab fa-vuejs"></i><span> Vue</span></a></li><li><a class="site-page child" href="/categories/javascript/"><i class="fa-fw fab fa-js"></i><span> JavaScript</span></a></li><li><a class="site-page child" href="/categories/typescript/"><i class="fa-fw fab fa-js"></i><span> TypeScript</span></a></li><li><a class="site-page child" href="/categories/html/"><i class="fa-fw fab fa-html5"></i><span> HTML5</span></a></li><li><a class="site-page child" href="/categories/css/"><i class="fa-fw fab fa-css3-alt"></i><span> CSS3</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><span> Linux 运维</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/linux/"><i class="fa-fw fab fa-linux"></i><span> 基础命令</span></a></li><li><a class="site-page child" href="/categories/docker/"><i class="fa-fw fab fa-docker"></i><span> Docker</span></a></li><li><a class="site-page child" href="/categories/jenkins/"><i class="fa-fw fab fa-jenkins"></i><span> Jenkins</span></a></li><li><a class="site-page child" href="/categories/shell/"><i class="fa-fw fab fa-linux"></i><span> Shell</span></a></li><li><a class="site-page child" href="/categories/git/"><i class="fa-fw fab fa-git"></i><span> Git</span></a></li><li><a class="site-page child" href="/categories/nginx/"><i class="fa-fw fas fa-server"></i><span> Nginx</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><span> AI知识</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/prompt-engineering/"><i class="fa-fw fas fa-lightbulb"></i><span> 提示词工程</span></a></li><li><a class="site-page child" href="/categories/aigc/"><i class="fa-fw fas fa-robot"></i><span> AIGC</span></a></li><li><a class="site-page child" href="/categories/llm/"><i class="fa-fw fas fa-robot"></i><span> 大模型理解</span></a></li><li><a class="site-page child" href="/categories/langchain/"><i class="fa-fw fas fa-network-wired"></i><span> LangChain / 智能体</span></a></li></ul></div></div></div></div><div class="page" id="body-wrap"><header class="not-home-page fixed" id="page-header"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><span class="site-name">爱在西元前</span></a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fab fa-java"></i><span> Java</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/design-mode/"><i class="fa-fw fas fa-puzzle-piece"></i><span> 设计模式</span></a></li><li><a class="site-page child" href="/categories/jvm/"><i class="fa-fw fas fa-microchip"></i><span> JVM与内存模型</span></a></li><li><a class="site-page child" href="/categories/concurrency/"><i class="fa-fw fas fa-tasks"></i><span> 并发与多线程</span></a></li><li><a class="site-page child" href="/categories/java-base/"><i class="fa-fw fas fa-user-cog"></i><span> Java基础</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fas fa-leaf"></i><span> Spring</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/spring-mvc/"><i class="fa-fw fas fa-sitemap"></i><span> SpringMVC</span></a></li><li><a class="site-page child" href="/categories/spring-boot/"><i class="fa-fw fas fa-rocket"></i><span> SpringBoot</span></a></li><li><a class="site-page child" href="/categories/spring-cloud/"><i class="fa-fw fas fa-cloud"></i><span> SpringCloud</span></a></li><li><a class="site-page child" href="/categories/spring-data/"><i class="fa-fw fas fa-database"></i><span> SpringData</span></a></li><li><a class="site-page child" href="/categories/spring-security/"><i class="fa-fw fas fa-shield-alt"></i><span> SpringSecurity</span></a></li><li><a class="site-page child" href="/categories/spring-data-jpa/"><i class="fa-fw fas fa-server"></i><span> SpringDataJPA</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fas fa-database"></i><span> Mybatis</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/mybatis/"><i class="fa-fw fas fa-code"></i><span> Mybatis</span></a></li><li><a class="site-page child" href="/categories/mybatis-plus/"><i class="fa-fw fas fa-code-branch"></i><span> MybatisPlus</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fas fa-envelope-open-text"></i><span> 消息队列</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/rocketmq/"><i class="fa-fw fas fa-rocket"></i><span> RocketMQ</span></a></li><li><a class="site-page child" href="/categories/kafka/"><i class="fa-fw fas fa-stream"></i><span> Kafka</span></a></li><li><a class="site-page child" href="/categories/rabbitmq/"><i class="fa-fw fas fa-comments"></i><span> RabbitMQ</span></a></li><li><a class="site-page child" href="/categories/activemq/"><i class="fa-fw fas fa-rss"></i><span> ActiveMQ</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><i class="fa-fw fas fa-tags"></i><span> 计算机网络</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/network/"><i class="fa-fw fas fa-project-diagram"></i><span> 网络原理</span></a></li><li><a class="site-page child" href="/categories/tcpip/"><i class="fa-fw fas fa-exchange-alt"></i><span> TCP/IP 协议族</span></a></li><li><a class="site-page child" href="/categories/http/"><i class="fa-fw fas fa-link"></i><span> HTTP 与 HTTPS</span></a></li><li><a class="site-page child" href="/categories/security/"><i class="fa-fw fas fa-shield-virus"></i><span> 网络安全</span></a></li><li><a class="site-page child" href="/categories/websocket/"><i class="fa-fw fas fa-network-wired"></i><span> WebSocket</span></a></li><li><a class="site-page child" href="/categories/loadbalancing/"><i class="fa-fw fas fa-balance-scale"></i><span> 负载均衡</span></a></li><li><a class="site-page child" href="/categories/dns/"><i class="fa-fw fas fa-globe"></i><span> DNS</span></a></li><li><a class="site-page child" href="/categories/cdn/"><i class="fa-fw fas fa-cloud"></i><span> CDN</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><span> 数据库</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/mysql/"><i class="fa-fw fas fa-database"></i><span> MySQL</span></a></li><li><a class="site-page child" href="/categories/redis/"><i class="fa-fw fas fa-memory"></i><span> Redis</span></a></li><li><a class="site-page child" href="/categories/elasticsearch/"><i class="fa-fw fas fa-search"></i><span> ElasticSearch</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><span> 前端</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/vue/"><i class="fa-fw fab fa-vuejs"></i><span> Vue</span></a></li><li><a class="site-page child" href="/categories/javascript/"><i class="fa-fw fab fa-js"></i><span> JavaScript</span></a></li><li><a class="site-page child" href="/categories/typescript/"><i class="fa-fw fab fa-js"></i><span> TypeScript</span></a></li><li><a class="site-page child" href="/categories/html/"><i class="fa-fw fab fa-html5"></i><span> HTML5</span></a></li><li><a class="site-page child" href="/categories/css/"><i class="fa-fw fab fa-css3-alt"></i><span> CSS3</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><span> Linux 运维</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/linux/"><i class="fa-fw fab fa-linux"></i><span> 基础命令</span></a></li><li><a class="site-page child" href="/categories/docker/"><i class="fa-fw fab fa-docker"></i><span> Docker</span></a></li><li><a class="site-page child" href="/categories/jenkins/"><i class="fa-fw fab fa-jenkins"></i><span> Jenkins</span></a></li><li><a class="site-page child" href="/categories/shell/"><i class="fa-fw fab fa-linux"></i><span> Shell</span></a></li><li><a class="site-page child" href="/categories/git/"><i class="fa-fw fab fa-git"></i><span> Git</span></a></li><li><a class="site-page child" href="/categories/nginx/"><i class="fa-fw fas fa-server"></i><span> Nginx</span></a></li></ul></div><div class="menus_item"><span class="site-page group"><span> AI知识</span><i class="fas fa-chevron-down"></i></span><ul class="menus_item_child"><li><a class="site-page child" href="/categories/prompt-engineering/"><i class="fa-fw fas fa-lightbulb"></i><span> 提示词工程</span></a></li><li><a class="site-page child" href="/categories/aigc/"><i class="fa-fw fas fa-robot"></i><span> AIGC</span></a></li><li><a class="site-page child" href="/categories/llm/"><i class="fa-fw fas fa-robot"></i><span> 大模型理解</span></a></li><li><a class="site-page child" href="/categories/langchain/"><i class="fa-fw fas fa-network-wired"></i><span> LangChain / 智能体</span></a></li></ul></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav><div id="page-site-info"><h1 id="site-title">Docker</h1></div></header><main class="layout" id="content-inner"><div class="recent-posts nc" id="recent-posts"><div class="recent-post-items"><div class="recent-post-item"><div class="recent-post-info no-cover"><a class="article-title" href="/2025/07/16/linux-ops/docker/docker-guide/" title="Docker常见命令">Docker常见命令</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2025-07-16T11:49:31.000Z" title="发表于 2025-07-16 19:49:31">2025-07-16</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/docker/">Docker</a></span></div></div></div></div><nav id="pagination"><div class="pagination"><span class="page-number current">1</span></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info text-center"><div class="avatar-img"><img src="/img/favicon.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info-name">crazy</div><div class="author-info-description">本人是一名全栈开发工程师，该博客用来记录知识点，分享一些学习心得，以及自己的一些思考。</div><div class="site-data"><a href="/archives/"><div class="headline">文章</div><div class="length-num">42</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">40</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">42</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/yin-yuan/chaochao.github.io"><i class="fab fa-github"></i><span>Follow Me</span></a></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><p>📢 欢迎来到我的博客！</p>
+<p>🚀 记录 Java、Vue、设计模式、JVM 等技术成长之路</p>
+<p>📝 每周持续更新，欢迎收藏关注</p>
+<p>👉 <a href="/categories/design-mode/">点击查看：设计模式</a></p>
+</div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2025/07/19/linux-ops/nginx/reverse-proxy/" title="Nginx反向代理">Nginx反向代理</a><time datetime="2025-07-19T05:18:05.000Z" title="发表于 2025-07-19 13:18:05">2025-07-19</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2025/07/19/linux-ops/git/git-commands/" title="git基本命令">git基本命令</a><time datetime="2025-07-19T05:15:27.000Z" title="发表于 2025-07-19 13:15:27">2025-07-19</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2025/07/16/aigc/langchain/langchain-intro/" title="LangChain基础与智能体架构">LangChain基础与智能体架构</a><time datetime="2025-07-16T11:59:09.000Z" title="发表于 2025-07-16 19:59:09">2025-07-16</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2025/07/16/aigc/llm/llm-overview/" title="LLM工作原理与推理过程">LLM工作原理与推理过程</a><time datetime="2025-07-16T11:57:40.000Z" title="发表于 2025-07-16 19:57:40">2025-07-16</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2025/07/16/aigc/agent/aigc-application/" title="AIGC内容生成应用场景">AIGC内容生成应用场景</a><time datetime="2025-07-16T11:56:01.000Z" title="发表于 2025-07-16 19:56:01">2025-07-16</time></div></div></div></div><div class="card-widget card-categories"><div class="item-headline">
+            <i class="fas fa-folder-open"></i>
+            <span>分类</span>
+            <a class="card-more-btn" href="/categories/" title="查看更多">
+      <i class="fas fa-angle-right"></i></a>
+          </div>
+          <ul class="card-category-list" id="aside-cat-list">
+            <li class="card-category-list-item "><a class="card-category-list-link" href="/categories/aigc/"><span class="card-category-list-name">AIGC</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/activemq/"><span class="card-category-list-name">ActiveMQ</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/cdn/"><span class="card-category-list-name">CDN</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/css/"><span class="card-category-list-name">CSS</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/dns/"><span class="card-category-list-name">DNS</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/docker/"><span class="card-category-list-name">Docker</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/elasticsearch/"><span class="card-category-list-name">ElasticSearch</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/git/"><span class="card-category-list-name">Git</span><span class="card-category-list-count">1</span></a></li>
+          </ul></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/SpringCloud/" style="font-size: 1.1em; color: #999">SpringCloud</a> <a href="/tags/HTML/" style="font-size: 1.1em; color: #999">HTML</a> <a href="/tags/SpringMVC/" style="font-size: 1.1em; color: #999">SpringMVC</a> <a href="/tags/AIGC/" style="font-size: 1.1em; color: #999">AIGC</a> <a href="/tags/nginx/" style="font-size: 1.1em; color: #999">nginx</a> <a href="/tags/JavaScript/" style="font-size: 1.1em; color: #999">JavaScript</a> <a href="/tags/SpringData/" style="font-size: 1.1em; color: #999">SpringData</a> <a href="/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/" style="font-size: 1.1em; color: #999">网络安全</a> <a href="/tags/HTTP/" style="font-size: 1.1em; color: #999">HTTP</a> <a href="/tags/linux/" style="font-size: 1.1em; color: #999">linux</a> <a href="/tags/ElasticSearch/" style="font-size: 1.1em; color: #999">ElasticSearch</a> <a href="/tags/SpringSecurity/" style="font-size: 1.1em; color: #999">SpringSecurity</a> <a href="/tags/shell/" style="font-size: 1.1em; color: #999">shell</a> <a href="/tags/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/" style="font-size: 1.1em; color: #999">负载均衡</a> <a href="/tags/MySQL/" style="font-size: 1.1em; color: #999">MySQL</a> <a href="/tags/Redis/" style="font-size: 1.1em; color: #999">Redis</a> <a href="/tags/CSS/" style="font-size: 1.1em; color: #999">CSS</a> <a href="/tags/SpringDataJPA/" style="font-size: 1.1em; color: #999">SpringDataJPA</a> <a href="/tags/TCP-IP/" style="font-size: 1.1em; color: #999">TCP/IP</a> <a href="/tags/Vue/" style="font-size: 1.1em; color: #999">Vue</a> <a href="/tags/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/" style="font-size: 1.1em; color: #999">网络通信</a> <a href="/tags/WebSocket/" style="font-size: 1.1em; color: #999">WebSocket</a> <a href="/tags/MyBatis-Plus/" style="font-size: 1.1em; color: #999">MyBatis-Plus</a> <a href="/tags/Java%E5%9F%BA%E7%A1%80/" style="font-size: 1.1em; color: #999">Java基础</a> <a href="/tags/jenkins/" style="font-size: 1.1em; color: #999">jenkins</a> <a href="/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B/" style="font-size: 1.1em; color: #999">提示词工程</a> <a href="/tags/Docker/" style="font-size: 1.1em; color: #999">Docker</a> <a href="/tags/LangChain/" style="font-size: 1.1em; color: #999">LangChain</a> <a href="/tags/LLM/" style="font-size: 1.1em; color: #999">LLM</a> <a href="/tags/JVM/" style="font-size: 1.1em; color: #999">JVM</a> <a href="/tags/ActiveMQ/" style="font-size: 1.1em; color: #999">ActiveMQ</a> <a href="/tags/SpringBoot/" style="font-size: 1.1em; color: #999">SpringBoot</a> <a href="/tags/git/" style="font-size: 1.1em; color: #999">git</a> <a href="/tags/RocketMQ/" style="font-size: 1.1em; color: #999">RocketMQ</a> <a href="/tags/CDN/" style="font-size: 1.1em; color: #999">CDN</a> <a href="/tags/MyBatis/" style="font-size: 1.1em; color: #999">MyBatis</a> <a href="/tags/TypeScript/" style="font-size: 1.1em; color: #999">TypeScript</a> <a href="/tags/RabbitMQ/" style="font-size: 1.1em; color: #999">RabbitMQ</a> <a href="/tags/Kafka/" style="font-size: 1.1em; color: #999">Kafka</a> <a href="/tags/DNS/" style="font-size: 1.1em; color: #999">DNS</a></div></div><div class="card-widget card-archives">
+    <div class="item-headline">
+      <i class="fas fa-archive"></i>
+      <span>归档</span>
+      
+    </div>
+  
+    <ul class="card-archive-list">
+      
+        <li class="card-archive-list-item">
+          <a class="card-archive-list-link" href="/archives/2025/07/">
+            <span class="card-archive-list-date">
+              七月 2025
+            </span>
+            <span class="card-archive-list-count">42</span>
+          </a>
+        </li>
+      
+    </ul>
+  </div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站信息</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">42</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总浏览量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2025-07-21T14:47:47.312Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2019 - 2025 By crazy</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo 7.3.0</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly 5.3.5</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><div class="js-pjax"></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>

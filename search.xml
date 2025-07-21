@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Nginx反向代理</title>
+      <link href="/2025/07/19/linux-ops/nginx/reverse-proxy/"/>
+      <url>/2025/07/19/linux-ops/nginx/reverse-proxy/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Nginx </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nginx </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git基本命令</title>
+      <link href="/2025/07/19/linux-ops/git/git-commands/"/>
+      <url>/2025/07/19/linux-ops/git/git-commands/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>LangChain基础与智能体架构</title>
+      <link href="/2025/07/16/aigc/langchain/langchain-intro/"/>
+      <url>/2025/07/16/aigc/langchain/langchain-intro/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> LangChain / 智能体 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LangChain </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>LLM工作原理与推理过程</title>
+      <link href="/2025/07/16/aigc/llm/llm-overview/"/>
+      <url>/2025/07/16/aigc/llm/llm-overview/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 大模型理解 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LLM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AIGC内容生成应用场景</title>
+      <link href="/2025/07/16/aigc/agent/aigc-application/"/>
+      <url>/2025/07/16/aigc/agent/aigc-application/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> AIGC </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AIGC </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>提示词工程基础原理</title>
+      <link href="/2025/07/16/aigc/prompt-engineering/prompt-engineering/"/>
+      <url>/2025/07/16/aigc/prompt-engineering/prompt-engineering/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 提示词工程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 提示词工程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Shell脚本基础语法</title>
+      <link href="/2025/07/16/linux-ops/shell/shell-basics/"/>
+      <url>/2025/07/16/linux-ops/shell/shell-basics/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Shell </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> shell </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Jenkins流水线配置</title>
+      <link href="/2025/07/16/linux-ops/jenkins/jenkins-pipeline/"/>
+      <url>/2025/07/16/linux-ops/jenkins/jenkins-pipeline/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Jenkins </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> jenkins </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Docker常见命令</title>
+      <link href="/2025/07/16/linux-ops/docker/docker-guide/"/>
+      <url>/2025/07/16/linux-ops/docker/docker-guide/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Docker </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Docker </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux常用命令合集</title>
+      <link href="/2025/07/16/linux-ops/linux/linux-commands/"/>
+      <url>/2025/07/16/linux-ops/linux/linux-commands/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 基础命令 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CSS选择器大全</title>
+      <link href="/2025/07/16/front-end/css/css-selectors/"/>
+      <url>/2025/07/16/front-end/css/css-selectors/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> CSS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CSS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HTML5新增特性</title>
+      <link href="/2025/07/16/front-end/html/html5-features/"/>
+      <url>/2025/07/16/front-end/html/html5-features/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> HTML </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>TS类型系统简介</title>
+      <link href="/2025/07/16/front-end/typescript/ts-types/"/>
+      <url>/2025/07/16/front-end/typescript/ts-types/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> TypeScript </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> TypeScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JS闭包原理</title>
+      <link href="/2025/07/16/front-end/javascript/js-closure/"/>
+      <url>/2025/07/16/front-end/javascript/js-closure/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> JavaScript </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JavaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Vue3响应式原理</title>
+      <link href="/2025/07/16/front-end/vue/vue3-reactivity/"/>
+      <url>/2025/07/16/front-end/vue/vue3-reactivity/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Vue </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ES基本概念</title>
+      <link href="/2025/07/16/database/elasticsearch/es-basics/"/>
+      <url>/2025/07/16/database/elasticsearch/es-basics/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> ElasticSearch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ElasticSearch </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Redis五大数据结构</title>
+      <link href="/2025/07/16/database/redis/redis-data-types/"/>
+      <url>/2025/07/16/database/redis/redis-data-types/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Redis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Redis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MySQL索引详解</title>
+      <link href="/2025/07/16/database/mysql/mysql-index/"/>
+      <url>/2025/07/16/database/mysql/mysql-index/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> MySQL </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CDN原理介绍</title>
+      <link href="/2025/07/16/network/cnd/cdn-overview/"/>
+      <url>/2025/07/16/network/cnd/cdn-overview/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> CDN </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CDN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>DNS解析流程</title>
+      <link href="/2025/07/16/network/dns/dns-flow/"/>
+      <url>/2025/07/16/network/dns/dns-flow/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> DNS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DNS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Nginx负载均衡配置</title>
+      <link href="/2025/07/16/network/loadbalancing/nginx-lb/"/>
+      <url>/2025/07/16/network/loadbalancing/nginx-lb/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 负载均衡 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 负载均衡 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WebSocket工作原理</title>
+      <link href="/2025/07/16/network/websocket/websocket-intro/"/>
+      <url>/2025/07/16/network/websocket/websocket-intro/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> WebSocket </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> WebSocket </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>常见网络攻击方式</title>
+      <link href="/2025/07/16/network/security/security-attacks/"/>
+      <url>/2025/07/16/network/security/security-attacks/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络安全 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络安全 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HTTP状态码详解</title>
+      <link href="/2025/07/16/network/http/http-status-code/"/>
+      <url>/2025/07/16/network/http/http-status-code/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> HTTP 与 HTTPS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTTP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>三次握手与四次挥手</title>
+      <link href="/2025/07/16/network/tcpip/handshake-wave/"/>
+      <url>/2025/07/16/network/tcpip/handshake-wave/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> TCP/IP 协议族 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> TCP/IP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网络通信基本流程</title>
+      <link href="/2025/07/16/network/network/network-basics/"/>
+      <url>/2025/07/16/network/network/network-basics/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络原理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络通信 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ActiveMQ入门</title>
+      <link href="/2025/07/16/mq/activemq/activemq-intro/"/>
+      <url>/2025/07/16/mq/activemq/activemq-intro/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> ActiveMQ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ActiveMQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>RabbitMQ基本使用</title>
+      <link href="/2025/07/16/mq/rabbitmq/rabbitmq-usage/"/>
+      <url>/2025/07/16/mq/rabbitmq/rabbitmq-usage/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> RabbitMQ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RabbitMQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Kafka架构总览</title>
+      <link href="/2025/07/16/mq/kafka/kafka-architecture/"/>
+      <url>/2025/07/16/mq/kafka/kafka-architecture/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Kafka </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Kafka </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>RocketMQ核心概念</title>
+      <link href="/2025/07/16/mq/rocketmq/rocketmq-basics/"/>
+      <url>/2025/07/16/mq/rocketmq/rocketmq-basics/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> RocketMQ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RocketMQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MyBatis-Plus用法汇总</title>
+      <link href="/2025/07/16/dao/mybatis-plus/mybatis-plus-guide/"/>
+      <url>/2025/07/16/dao/mybatis-plus/mybatis-plus-guide/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> MybatisPlus </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MyBatis-Plus </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MyBatis基础配置</title>
+      <link href="/2025/07/16/dao/mybatis/mybatis-config/"/>
+      <url>/2025/07/16/dao/mybatis/mybatis-config/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Mybatis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MyBatis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SpringDataJPA基础用法</title>
+      <link href="/2025/07/16/spring/spring-data-jpa/jpa-intro/"/>
+      <url>/2025/07/16/spring/spring-data-jpa/jpa-intro/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> SpringDataJPA </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SpringDataJPA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SpringSecurity入门教程</title>
+      <link href="/2025/07/16/spring/spring-security/springsecurity-guide/"/>
+      <url>/2025/07/16/spring/spring-security/springsecurity-guide/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> SpringSecurity </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SpringSecurity </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SpringData概述</title>
+      <link href="/2025/07/16/spring/spring-data/springdata-overview/"/>
+      <url>/2025/07/16/spring/spring-data/springdata-overview/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> SpringData </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SpringData </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SpringCloud组件介绍</title>
+      <link href="/2025/07/16/spring/spring-cloud/springcloud-components/"/>
+      <url>/2025/07/16/spring/spring-cloud/springcloud-components/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> SpringCloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SpringCloud </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SpringBoot快速上手</title>
+      <link href="/2025/07/16/spring/spring-boot/springboot-intro/"/>
+      <url>/2025/07/16/spring/spring-boot/springboot-intro/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> SpringBoot </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SpringBoot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SpringMVC流程解析</title>
+      <link href="/2025/07/16/spring/spring-mvc/springmvc-flow/"/>
+      <url>/2025/07/16/spring/spring-mvc/springmvc-flow/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> SpringMVC </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SpringMVC </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Java基本语法总结</title>
+      <link href="/2025/07/16/java/java-base/java-basics/"/>
+      <url>/2025/07/16/java/java-base/java-basics/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Java基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JVM运行时数据区详解</title>
+      <link href="/2025/07/16/java/jvm/jvm-memory-area/"/>
+      <url>/2025/07/16/java/jvm/jvm-memory-area/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> JVM与内存模型 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JVM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>线程池</title>
+      <link href="/2025/07/14/java/concurrency/thread-pool/"/>
+      <url>/2025/07/14/java/concurrency/thread-pool/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 并发与多线程 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>单例模式</title>
+      <link href="/2025/07/12/java/design-mode/singleton-pattern/"/>
+      <url>/2025/07/12/java/design-mode/singleton-pattern/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计模式 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
