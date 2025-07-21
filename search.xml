@@ -5,8 +5,8 @@
     
     <entry>
       <title>Nginx反向代理</title>
-      <link href="/2025/07/19/linux-ops/nginx/reverse-proxy/"/>
-      <url>/2025/07/19/linux-ops/nginx/reverse-proxy/</url>
+      <link href="/chaochao.github.io/2025/07/19/linux-ops/nginx/reverse-proxy/"/>
+      <url>/chaochao.github.io/2025/07/19/linux-ops/nginx/reverse-proxy/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -30,8 +30,8 @@
     
     <entry>
       <title>git基本命令</title>
-      <link href="/2025/07/19/linux-ops/git/git-commands/"/>
-      <url>/2025/07/19/linux-ops/git/git-commands/</url>
+      <link href="/chaochao.github.io/2025/07/19/linux-ops/git/git-commands/"/>
+      <url>/chaochao.github.io/2025/07/19/linux-ops/git/git-commands/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -55,8 +55,8 @@
     
     <entry>
       <title>LangChain基础与智能体架构</title>
-      <link href="/2025/07/16/aigc/langchain/langchain-intro/"/>
-      <url>/2025/07/16/aigc/langchain/langchain-intro/</url>
+      <link href="/chaochao.github.io/2025/07/16/aigc/langchain/langchain-intro/"/>
+      <url>/chaochao.github.io/2025/07/16/aigc/langchain/langchain-intro/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -80,8 +80,8 @@
     
     <entry>
       <title>LLM工作原理与推理过程</title>
-      <link href="/2025/07/16/aigc/llm/llm-overview/"/>
-      <url>/2025/07/16/aigc/llm/llm-overview/</url>
+      <link href="/chaochao.github.io/2025/07/16/aigc/llm/llm-overview/"/>
+      <url>/chaochao.github.io/2025/07/16/aigc/llm/llm-overview/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -105,8 +105,8 @@
     
     <entry>
       <title>AIGC内容生成应用场景</title>
-      <link href="/2025/07/16/aigc/agent/aigc-application/"/>
-      <url>/2025/07/16/aigc/agent/aigc-application/</url>
+      <link href="/chaochao.github.io/2025/07/16/aigc/agent/aigc-application/"/>
+      <url>/chaochao.github.io/2025/07/16/aigc/agent/aigc-application/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -130,8 +130,8 @@
     
     <entry>
       <title>提示词工程基础原理</title>
-      <link href="/2025/07/16/aigc/prompt-engineering/prompt-engineering/"/>
-      <url>/2025/07/16/aigc/prompt-engineering/prompt-engineering/</url>
+      <link href="/chaochao.github.io/2025/07/16/aigc/prompt-engineering/prompt-engineering/"/>
+      <url>/chaochao.github.io/2025/07/16/aigc/prompt-engineering/prompt-engineering/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -155,8 +155,8 @@
     
     <entry>
       <title>Shell脚本基础语法</title>
-      <link href="/2025/07/16/linux-ops/shell/shell-basics/"/>
-      <url>/2025/07/16/linux-ops/shell/shell-basics/</url>
+      <link href="/chaochao.github.io/2025/07/16/linux-ops/shell/shell-basics/"/>
+      <url>/chaochao.github.io/2025/07/16/linux-ops/shell/shell-basics/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -180,8 +180,8 @@
     
     <entry>
       <title>Jenkins流水线配置</title>
-      <link href="/2025/07/16/linux-ops/jenkins/jenkins-pipeline/"/>
-      <url>/2025/07/16/linux-ops/jenkins/jenkins-pipeline/</url>
+      <link href="/chaochao.github.io/2025/07/16/linux-ops/jenkins/jenkins-pipeline/"/>
+      <url>/chaochao.github.io/2025/07/16/linux-ops/jenkins/jenkins-pipeline/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -205,8 +205,8 @@
     
     <entry>
       <title>Docker常见命令</title>
-      <link href="/2025/07/16/linux-ops/docker/docker-guide/"/>
-      <url>/2025/07/16/linux-ops/docker/docker-guide/</url>
+      <link href="/chaochao.github.io/2025/07/16/linux-ops/docker/docker-guide/"/>
+      <url>/chaochao.github.io/2025/07/16/linux-ops/docker/docker-guide/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -230,8 +230,8 @@
     
     <entry>
       <title>Linux常用命令合集</title>
-      <link href="/2025/07/16/linux-ops/linux/linux-commands/"/>
-      <url>/2025/07/16/linux-ops/linux/linux-commands/</url>
+      <link href="/chaochao.github.io/2025/07/16/linux-ops/linux/linux-commands/"/>
+      <url>/chaochao.github.io/2025/07/16/linux-ops/linux/linux-commands/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -255,8 +255,8 @@
     
     <entry>
       <title>CSS选择器大全</title>
-      <link href="/2025/07/16/front-end/css/css-selectors/"/>
-      <url>/2025/07/16/front-end/css/css-selectors/</url>
+      <link href="/chaochao.github.io/2025/07/16/front-end/css/css-selectors/"/>
+      <url>/chaochao.github.io/2025/07/16/front-end/css/css-selectors/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -280,8 +280,8 @@
     
     <entry>
       <title>HTML5新增特性</title>
-      <link href="/2025/07/16/front-end/html/html5-features/"/>
-      <url>/2025/07/16/front-end/html/html5-features/</url>
+      <link href="/chaochao.github.io/2025/07/16/front-end/html/html5-features/"/>
+      <url>/chaochao.github.io/2025/07/16/front-end/html/html5-features/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -305,8 +305,8 @@
     
     <entry>
       <title>TS类型系统简介</title>
-      <link href="/2025/07/16/front-end/typescript/ts-types/"/>
-      <url>/2025/07/16/front-end/typescript/ts-types/</url>
+      <link href="/chaochao.github.io/2025/07/16/front-end/typescript/ts-types/"/>
+      <url>/chaochao.github.io/2025/07/16/front-end/typescript/ts-types/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -330,8 +330,8 @@
     
     <entry>
       <title>JS闭包原理</title>
-      <link href="/2025/07/16/front-end/javascript/js-closure/"/>
-      <url>/2025/07/16/front-end/javascript/js-closure/</url>
+      <link href="/chaochao.github.io/2025/07/16/front-end/javascript/js-closure/"/>
+      <url>/chaochao.github.io/2025/07/16/front-end/javascript/js-closure/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -355,8 +355,8 @@
     
     <entry>
       <title>Vue3响应式原理</title>
-      <link href="/2025/07/16/front-end/vue/vue3-reactivity/"/>
-      <url>/2025/07/16/front-end/vue/vue3-reactivity/</url>
+      <link href="/chaochao.github.io/2025/07/16/front-end/vue/vue3-reactivity/"/>
+      <url>/chaochao.github.io/2025/07/16/front-end/vue/vue3-reactivity/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -380,8 +380,8 @@
     
     <entry>
       <title>ES基本概念</title>
-      <link href="/2025/07/16/database/elasticsearch/es-basics/"/>
-      <url>/2025/07/16/database/elasticsearch/es-basics/</url>
+      <link href="/chaochao.github.io/2025/07/16/database/elasticsearch/es-basics/"/>
+      <url>/chaochao.github.io/2025/07/16/database/elasticsearch/es-basics/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -405,8 +405,8 @@
     
     <entry>
       <title>Redis五大数据结构</title>
-      <link href="/2025/07/16/database/redis/redis-data-types/"/>
-      <url>/2025/07/16/database/redis/redis-data-types/</url>
+      <link href="/chaochao.github.io/2025/07/16/database/redis/redis-data-types/"/>
+      <url>/chaochao.github.io/2025/07/16/database/redis/redis-data-types/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -430,8 +430,8 @@
     
     <entry>
       <title>MySQL索引详解</title>
-      <link href="/2025/07/16/database/mysql/mysql-index/"/>
-      <url>/2025/07/16/database/mysql/mysql-index/</url>
+      <link href="/chaochao.github.io/2025/07/16/database/mysql/mysql-index/"/>
+      <url>/chaochao.github.io/2025/07/16/database/mysql/mysql-index/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -455,8 +455,8 @@
     
     <entry>
       <title>CDN原理介绍</title>
-      <link href="/2025/07/16/network/cnd/cdn-overview/"/>
-      <url>/2025/07/16/network/cnd/cdn-overview/</url>
+      <link href="/chaochao.github.io/2025/07/16/network/cnd/cdn-overview/"/>
+      <url>/chaochao.github.io/2025/07/16/network/cnd/cdn-overview/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -480,8 +480,8 @@
     
     <entry>
       <title>DNS解析流程</title>
-      <link href="/2025/07/16/network/dns/dns-flow/"/>
-      <url>/2025/07/16/network/dns/dns-flow/</url>
+      <link href="/chaochao.github.io/2025/07/16/network/dns/dns-flow/"/>
+      <url>/chaochao.github.io/2025/07/16/network/dns/dns-flow/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -505,8 +505,8 @@
     
     <entry>
       <title>Nginx负载均衡配置</title>
-      <link href="/2025/07/16/network/loadbalancing/nginx-lb/"/>
-      <url>/2025/07/16/network/loadbalancing/nginx-lb/</url>
+      <link href="/chaochao.github.io/2025/07/16/network/loadbalancing/nginx-lb/"/>
+      <url>/chaochao.github.io/2025/07/16/network/loadbalancing/nginx-lb/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -530,8 +530,8 @@
     
     <entry>
       <title>WebSocket工作原理</title>
-      <link href="/2025/07/16/network/websocket/websocket-intro/"/>
-      <url>/2025/07/16/network/websocket/websocket-intro/</url>
+      <link href="/chaochao.github.io/2025/07/16/network/websocket/websocket-intro/"/>
+      <url>/chaochao.github.io/2025/07/16/network/websocket/websocket-intro/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -555,8 +555,8 @@
     
     <entry>
       <title>常见网络攻击方式</title>
-      <link href="/2025/07/16/network/security/security-attacks/"/>
-      <url>/2025/07/16/network/security/security-attacks/</url>
+      <link href="/chaochao.github.io/2025/07/16/network/security/security-attacks/"/>
+      <url>/chaochao.github.io/2025/07/16/network/security/security-attacks/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -580,8 +580,8 @@
     
     <entry>
       <title>HTTP状态码详解</title>
-      <link href="/2025/07/16/network/http/http-status-code/"/>
-      <url>/2025/07/16/network/http/http-status-code/</url>
+      <link href="/chaochao.github.io/2025/07/16/network/http/http-status-code/"/>
+      <url>/chaochao.github.io/2025/07/16/network/http/http-status-code/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -605,8 +605,8 @@
     
     <entry>
       <title>三次握手与四次挥手</title>
-      <link href="/2025/07/16/network/tcpip/handshake-wave/"/>
-      <url>/2025/07/16/network/tcpip/handshake-wave/</url>
+      <link href="/chaochao.github.io/2025/07/16/network/tcpip/handshake-wave/"/>
+      <url>/chaochao.github.io/2025/07/16/network/tcpip/handshake-wave/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -630,8 +630,8 @@
     
     <entry>
       <title>网络通信基本流程</title>
-      <link href="/2025/07/16/network/network/network-basics/"/>
-      <url>/2025/07/16/network/network/network-basics/</url>
+      <link href="/chaochao.github.io/2025/07/16/network/network/network-basics/"/>
+      <url>/chaochao.github.io/2025/07/16/network/network/network-basics/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -655,8 +655,8 @@
     
     <entry>
       <title>ActiveMQ入门</title>
-      <link href="/2025/07/16/mq/activemq/activemq-intro/"/>
-      <url>/2025/07/16/mq/activemq/activemq-intro/</url>
+      <link href="/chaochao.github.io/2025/07/16/mq/activemq/activemq-intro/"/>
+      <url>/chaochao.github.io/2025/07/16/mq/activemq/activemq-intro/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -680,8 +680,8 @@
     
     <entry>
       <title>RabbitMQ基本使用</title>
-      <link href="/2025/07/16/mq/rabbitmq/rabbitmq-usage/"/>
-      <url>/2025/07/16/mq/rabbitmq/rabbitmq-usage/</url>
+      <link href="/chaochao.github.io/2025/07/16/mq/rabbitmq/rabbitmq-usage/"/>
+      <url>/chaochao.github.io/2025/07/16/mq/rabbitmq/rabbitmq-usage/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -705,8 +705,8 @@
     
     <entry>
       <title>Kafka架构总览</title>
-      <link href="/2025/07/16/mq/kafka/kafka-architecture/"/>
-      <url>/2025/07/16/mq/kafka/kafka-architecture/</url>
+      <link href="/chaochao.github.io/2025/07/16/mq/kafka/kafka-architecture/"/>
+      <url>/chaochao.github.io/2025/07/16/mq/kafka/kafka-architecture/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -730,8 +730,8 @@
     
     <entry>
       <title>RocketMQ核心概念</title>
-      <link href="/2025/07/16/mq/rocketmq/rocketmq-basics/"/>
-      <url>/2025/07/16/mq/rocketmq/rocketmq-basics/</url>
+      <link href="/chaochao.github.io/2025/07/16/mq/rocketmq/rocketmq-basics/"/>
+      <url>/chaochao.github.io/2025/07/16/mq/rocketmq/rocketmq-basics/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -755,8 +755,8 @@
     
     <entry>
       <title>MyBatis-Plus用法汇总</title>
-      <link href="/2025/07/16/dao/mybatis-plus/mybatis-plus-guide/"/>
-      <url>/2025/07/16/dao/mybatis-plus/mybatis-plus-guide/</url>
+      <link href="/chaochao.github.io/2025/07/16/dao/mybatis-plus/mybatis-plus-guide/"/>
+      <url>/chaochao.github.io/2025/07/16/dao/mybatis-plus/mybatis-plus-guide/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -780,8 +780,8 @@
     
     <entry>
       <title>MyBatis基础配置</title>
-      <link href="/2025/07/16/dao/mybatis/mybatis-config/"/>
-      <url>/2025/07/16/dao/mybatis/mybatis-config/</url>
+      <link href="/chaochao.github.io/2025/07/16/dao/mybatis/mybatis-config/"/>
+      <url>/chaochao.github.io/2025/07/16/dao/mybatis/mybatis-config/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -805,8 +805,8 @@
     
     <entry>
       <title>SpringDataJPA基础用法</title>
-      <link href="/2025/07/16/spring/spring-data-jpa/jpa-intro/"/>
-      <url>/2025/07/16/spring/spring-data-jpa/jpa-intro/</url>
+      <link href="/chaochao.github.io/2025/07/16/spring/spring-data-jpa/jpa-intro/"/>
+      <url>/chaochao.github.io/2025/07/16/spring/spring-data-jpa/jpa-intro/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -830,8 +830,8 @@
     
     <entry>
       <title>SpringSecurity入门教程</title>
-      <link href="/2025/07/16/spring/spring-security/springsecurity-guide/"/>
-      <url>/2025/07/16/spring/spring-security/springsecurity-guide/</url>
+      <link href="/chaochao.github.io/2025/07/16/spring/spring-security/springsecurity-guide/"/>
+      <url>/chaochao.github.io/2025/07/16/spring/spring-security/springsecurity-guide/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -855,8 +855,8 @@
     
     <entry>
       <title>SpringData概述</title>
-      <link href="/2025/07/16/spring/spring-data/springdata-overview/"/>
-      <url>/2025/07/16/spring/spring-data/springdata-overview/</url>
+      <link href="/chaochao.github.io/2025/07/16/spring/spring-data/springdata-overview/"/>
+      <url>/chaochao.github.io/2025/07/16/spring/spring-data/springdata-overview/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -880,8 +880,8 @@
     
     <entry>
       <title>SpringCloud组件介绍</title>
-      <link href="/2025/07/16/spring/spring-cloud/springcloud-components/"/>
-      <url>/2025/07/16/spring/spring-cloud/springcloud-components/</url>
+      <link href="/chaochao.github.io/2025/07/16/spring/spring-cloud/springcloud-components/"/>
+      <url>/chaochao.github.io/2025/07/16/spring/spring-cloud/springcloud-components/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -905,8 +905,8 @@
     
     <entry>
       <title>SpringBoot快速上手</title>
-      <link href="/2025/07/16/spring/spring-boot/springboot-intro/"/>
-      <url>/2025/07/16/spring/spring-boot/springboot-intro/</url>
+      <link href="/chaochao.github.io/2025/07/16/spring/spring-boot/springboot-intro/"/>
+      <url>/chaochao.github.io/2025/07/16/spring/spring-boot/springboot-intro/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -930,8 +930,8 @@
     
     <entry>
       <title>SpringMVC流程解析</title>
-      <link href="/2025/07/16/spring/spring-mvc/springmvc-flow/"/>
-      <url>/2025/07/16/spring/spring-mvc/springmvc-flow/</url>
+      <link href="/chaochao.github.io/2025/07/16/spring/spring-mvc/springmvc-flow/"/>
+      <url>/chaochao.github.io/2025/07/16/spring/spring-mvc/springmvc-flow/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -955,8 +955,8 @@
     
     <entry>
       <title>Java基本语法总结</title>
-      <link href="/2025/07/16/java/java-base/java-basics/"/>
-      <url>/2025/07/16/java/java-base/java-basics/</url>
+      <link href="/chaochao.github.io/2025/07/16/java/java-base/java-basics/"/>
+      <url>/chaochao.github.io/2025/07/16/java/java-base/java-basics/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -980,8 +980,8 @@
     
     <entry>
       <title>JVM运行时数据区详解</title>
-      <link href="/2025/07/16/java/jvm/jvm-memory-area/"/>
-      <url>/2025/07/16/java/jvm/jvm-memory-area/</url>
+      <link href="/chaochao.github.io/2025/07/16/java/jvm/jvm-memory-area/"/>
+      <url>/chaochao.github.io/2025/07/16/java/jvm/jvm-memory-area/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1005,8 +1005,8 @@
     
     <entry>
       <title>线程池</title>
-      <link href="/2025/07/14/java/concurrency/thread-pool/"/>
-      <url>/2025/07/14/java/concurrency/thread-pool/</url>
+      <link href="/chaochao.github.io/2025/07/14/java/concurrency/thread-pool/"/>
+      <url>/chaochao.github.io/2025/07/14/java/concurrency/thread-pool/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1024,8 +1024,8 @@
     
     <entry>
       <title>单例模式</title>
-      <link href="/2025/07/12/java/design-mode/singleton-pattern/"/>
-      <url>/2025/07/12/java/design-mode/singleton-pattern/</url>
+      <link href="/chaochao.github.io/2025/07/12/java/design-mode/singleton-pattern/"/>
+      <url>/chaochao.github.io/2025/07/12/java/design-mode/singleton-pattern/</url>
       
         <content type="html"><![CDATA[]]></content>
       
